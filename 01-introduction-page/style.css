@@ -1,0 +1,41 @@
+body{
+    font-family: sans-serif, 'Segoe UI';
+    background-color: lightblue;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 50px;
+    margin: 0;
+}
+
+.container{
+    background-color: azure;
+    max-width: 600px;
+    padding: 30px;
+    border-radius: 15px;
+    margin: auto;
+}
+
+h1{
+    color: blue;
+    text-transform: lowercase;
+    margin-bottom: 5px;
+}
+
+h2{
+    color: navy;
+    font-size: 15px;
+    margin-top: 0;
+}
+
+p{
+    font-size: 15px;
+}
+
+button{
+    font-size: 15px;
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: green;
+    color: azure;
+}
